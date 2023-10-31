@@ -1,0 +1,40 @@
+.nav-link {
+    color: #FFF2D8;
+}
+
+hr {
+    border-color:#FFCC70;
+    border-style: dotted none none;
+    border-width: 6px;
+    width: 10%;
+}
+
+.background {
+    background-color: #113946;
+
+}
+
+.backgroundlight {
+    color: #FFF2D8;
+}
+
+#Intro {
+    color: #FFF2D8;
+}
+
+#Sec-head {
+    color: #BCA37F;
+}
+
+p {
+    color: #113946
+}
+
+.card button {
+    background-color: #BCA37F;
+    color: #FFF2D8;
+}
+
+.footer {
+    color: #FFF2D8;
+}
